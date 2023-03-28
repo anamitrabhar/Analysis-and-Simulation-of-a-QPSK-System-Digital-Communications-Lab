@@ -1,1 +1,1 @@
-# Analysis-and-Simulation-of-a-QPSK-System-Digital-Communications-Lab
+# Analysis-and-Simulation-of-a-QPSK-System-Digital-Communications-Project
